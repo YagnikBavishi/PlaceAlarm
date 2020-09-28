@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PlaceAlarm</string>
+    <string name="web_client_id">841865077654-ttc1iivde3rf2ru4ueoq0jtomb9fqt0r.apps.googleusercontent.com</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_settings">Settings</string>
+    <string name="google_sign_in">Sign In With Google</string>
+    <string name="terms_condition"> -> You must comply with the provisions of these API Terms and Conditions, the Google Terms of Service, and the Associated Service Terms. Google reserves the right to modify these API Terms and Conditions from time to time in its sole discretion, without notice or liability to you. If a modification is unacceptable to you, you may terminate these API Terms and Conditions by ceasing use of the API. By continuing to use the API, you will be deemed to have accepted these modifications. Please review the most current version of the API Terms and Conditions from time to time, located at http://www.google.com/accounts/authsub/terms.html (or such successor URL as Google may provide), so that you will be apprised of any changes. In the event of a conflict between the API Terms and Conditions or the Associated Service Terms, on the one hand, and the Google Terms of Service, on the other hand, the API Terms and Conditions or the Associated Service Terms, as applicable, will control. In the event of a conflict between the API Terms and Conditions and the Associated Service Terms, the Associated Service Terms will control solely with respect to the specific associated Google service. Subject to the provisions in these API Terms and Conditions, you may develop, display and/or distribute your application as part of a commercial or non-commercial enterprise. If you provide information about you or relating to your application, you must provide complete and accurate information. In addition, in the event that you submit your application for inclusion in our directory of integrated applications, Google may use this information when featuring your application in our directory or for other uses. You may only use and/or distribute information from or about end users, including but not limited to any information obtained from a Google account or any usage information related to your application (whether or not personally identifying information), in accordance with a legally adequate privacy policy, which you must make publicly available on your web site. You provide your application and any content at your sole option and Google is not in any way responsible for the subsequent use or misuse by users who access your application, whether through a Google service or otherwise. You may discontinue use of the API and remove your application from the internet at any time. Google reserves the right to refuse or discontinue participation to anyone, and to disable end users’ access to any application, at any time in its sole discretion with or without notice. In the event either you or Google chooses to discontinue your use of the API or one of your applications’ use of the API, you will promptly cease all use of the API or, if Google expressly so requests, use of the API by that application.
+
+    </string>
+
+
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="register">register</string>
+    <string name="login">Login</string>
+    <string name="chat_app">Places Alarm</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="profile">Profile</string>
+    <string name="search">search...</string>
+    <string name="seen">seen</string>
+    <string name="hello">hello</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="your_email">Your Email</string>
+    <string name="reset">Reset</string>
+    <string name="by_clicking_reset_you_will_receive_an_email_to_reset_your_password">By clicking RESET, you will receive an email to reset your password</string>
+
+
+    <string name="facebook_app_id">2238344269800515</string>
+    <string name="fb_login_protocol_scheme">fb2238344269800515</string>
+</resources>
+
