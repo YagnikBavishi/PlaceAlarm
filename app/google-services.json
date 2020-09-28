@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "841865077654",
+    "firebase_url": "https://placealarm.firebaseio.com",
+    "project_id": "placealarm",
+    "storage_bucket": "placealarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841865077654:android:2293bc09f6439d151e73b7",
+        "android_client_info": {
+          "package_name": "com.example.placealarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841865077654-h1r0qht5te8b55gvkgmisd1hg784obpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.placealarm",
+            "certificate_hash": "52f79bb0259ce34399c1cea00b0c5ef7495b6382"
+          }
+        },
+        {
+          "client_id": "841865077654-87906mamsv6n8e31d5b52ekarv7g4h8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeyR8RbGnyox4qtEExODsj3jm8V3_aO1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841865077654-87906mamsv6n8e31d5b52ekarv7g4h8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
