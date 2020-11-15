@@ -5,8 +5,9 @@ Location Based Remainder Using GPS Service is an application to set an alarm for
 
 Output
 ------------------------------
-![alt text](https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/p1.jpg=100x20)![alt text](https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/arrow.png)![alt text](https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/p2_LI.jpg)![alt text](https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/arrow.png)![alt text](https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/p3.jpg)
+![alt text](https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/p1.jpg)![alt text](https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/arrow.png)![alt text](https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/p2_LI.jpg)![alt text](https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/arrow.png)![alt text](https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/p3.jpg)
 
+<img src="https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/p1.jpg" width="100" height="100"/>
         
 
 
