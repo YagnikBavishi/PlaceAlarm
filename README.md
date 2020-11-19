@@ -3,11 +3,6 @@ About the Application
 
 Location Based Remainder Using GPS Service is an application to set an alarm for android mobile phones, this service is based on the location of device and user can also see the places which are near to him/her using current location of him/her. Using this application, when the user comes into particular area (destination) then the alarm will ring. Also, User can set to send message/email when he/she near to destination, So that the person who is coming to peak him/her can get notification that him/her is now only __km away from the destination.. 
 
-Output
-------------------------------
-<img src="https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/p1.jpg" width="200" height="350"/>        <img src="https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/p2_LI.jpg" width="200" height="350"/>          <img src="https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/p3.jpg" width="200" height="350"/><br><br><br><img src="https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/p4.jpg" width="200" height="350"/>             <img src="https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/p5.jpg" width="200" height="350"/>             <img src="https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/p6_LI.jpg" width="200" height="350"/><br><br><br><img src="https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/p7_LI.jpg" width="200" height="350"/>          <img src="https://github.com/YagnikBavishi/PlaceAlarm/blob/master/images/p8_LI.jpg" width="200" height="350"/>
-        
-
 
 
         
